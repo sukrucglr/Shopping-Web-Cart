@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\183ccd85-5ebc-485e-a38f-c7107e182b6e-otopaspas.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\183ccd85-5ebc-485e-a38f-c7107e182b6e-otopaspas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\1a1e455e-0122-4fa5-8e95-fac869c619cc-ayakkabi.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\1a1e455e-0122-4fa5-8e95-fac869c619cc-ayakkabi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\43ed5e54-8209-4ee3-b048-fcb4e54eb7c0-saat.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\43ed5e54-8209-4ee3-b048-fcb4e54eb7c0-saat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\64faae43-20e2-47fd-aa0f-ba9e72abd144-kadınCanta.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\64faae43-20e2-47fd-aa0f-ba9e72abd144-kadınCanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\a8e2b3b3-c759-4ef8-9ab5-81a3e0cf3198-otokoltuk.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\a8e2b3b3-c759-4ef8-9ab5-81a3e0cf3198-otokoltuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\ProductImage\\ff33a673-0e41-4170-8a7c-afc4d13b128d-ototemizlikurunu.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ff33a673-0e41-4170-8a7c-afc4d13b128d-ototemizlikurunu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\css\\lux.css",
+      "PackagePath": "staticwebassets\\css\\lux.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\aspnet-Calismalarm\\ShoppingWeb\\ShoppingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShoppingWeb.props",
+      "PackagePath": "build\\ShoppingWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingWeb.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShoppingWeb.props",
+      "PackagePath": "buildTransitive\\ShoppingWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

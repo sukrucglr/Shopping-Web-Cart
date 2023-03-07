@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb\\ShoppingWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj",
+        "projectName": "ShoppingWeb.DataAccess",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\ShoppingWeb.Models.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\ShoppingWeb.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\ShoppingWeb.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\ShoppingWeb.Models.csproj",
+        "projectName": "ShoppingWeb.Models",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\ShoppingWeb.Models.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\ShoppingWeb.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\ShoppingWeb.Utility.csproj",
+        "projectName": "ShoppingWeb.Utility",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\ShoppingWeb.Utility.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb\\ShoppingWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb\\ShoppingWeb.csproj",
+        "projectName": "ShoppingWeb",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb\\ShoppingWeb.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.DataAccess\\ShoppingWeb.DataAccess.csproj"
+              },
+              "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\ShoppingWeb.Utility.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Shopping-Web-Project\\ShoppingWeb\\ShoppingWeb.Utility\\ShoppingWeb.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

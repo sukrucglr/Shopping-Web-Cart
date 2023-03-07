@@ -1,0 +1,29 @@
+﻿@model ShoppingWeb.Models.Cart
+
+<h1>Ürün Detay</h1>
+<form method="post">
+    <div class="row">
+        <div class="col-4">
+            <img src="@Model.Product.ImageUrl" width="200" height="200"/>
+            <input type="hidden" asp-for="ProductId" />
+        </div>
+        <div class="col-8">
+            <div class="row">
+                <label asp-for="Product.Name">Ürün İsmi: @Model.Product.Name</label>
+                <label asp-for="Product.Description">Ürün Açıklaması: @Model.Product.Description</label>
+                <label asp-for="Product.Description">Ürün Fiyatı: @Model.Product.Price.ToString("0.00")</label>
+                <label asp-for="Product.Category.Id">Ürün Kategorisi: @Model.Product.Category.Name</label>
+                <div class="form-control">
+                    <label asp-for="Count"></label>
+                    <input asp-for="Count" class="form-control" />
+                    <span asp-validation-for="Count" class="text-danger"></span>
+                </div>
+                <div class="form-control">
+                    <button class="btn btn-success" asp-action="Index" asp-controller="Home">Listeye geri dön</button>
+                    <button type="submit" class="btn btn-dark">Kart Ekle</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</form>

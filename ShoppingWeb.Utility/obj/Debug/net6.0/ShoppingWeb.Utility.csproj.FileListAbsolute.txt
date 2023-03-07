@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.Utility.deps.json
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.Utility.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.Utility.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\refint\ShoppingWeb.Utility.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ref\ShoppingWeb.Utility.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.DataAccess.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.Models.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.DataAccess.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\bin\Debug\net6.0\ShoppingWeb.Models.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.Utility\obj\Debug\net6.0\ShoppingWeb.Utility.csproj.CopyComplete

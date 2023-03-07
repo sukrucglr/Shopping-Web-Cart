@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\bin\Debug\net6.0\ShoppingWeb.DataAccess.deps.json
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\bin\Debug\net6.0\ShoppingWeb.DataAccess.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\bin\Debug\net6.0\ShoppingWeb.DataAccess.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\bin\Debug\net6.0\ShoppingWeb.Models.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\bin\Debug\net6.0\ShoppingWeb.Models.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\refint\ShoppingWeb.DataAccess.dll
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ShoppingWeb.DataAccess.pdb
+C:\Users\ASUS\Desktop\aspnet-Calismalarm\ShoppingWeb\ShoppingWeb.DataAccess\obj\Debug\net6.0\ref\ShoppingWeb.DataAccess.dll

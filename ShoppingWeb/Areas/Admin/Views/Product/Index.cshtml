@@ -1,0 +1,30 @@
+﻿<div class="container p-4">
+    <div class="row p-3">
+        <div class="col-6">
+            <h2 class="text-primary">Ürün Listesi</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a class="btn btn-primary" asp-action="CreateUpdate" asp-controller="Product">
+                <i class="bi bi-plus-circle">&nbsp; Yeni Ürün Oluştur </i>
+            </a>
+        </div>
+    </div>
+
+</div>
+<table id="myTable" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Ürün İsmi</th>
+            <th>Ürün Açıklaması</th>
+            <th>Ürün Fiyatı</th>
+            <th>Ürün Kategorisi</th>
+            <th>Eylem</th>
+
+        </tr>
+    </thead>
+
+</table>
+
+@section scripts{
+    <script src="~/js/product.js"></script>
+}
